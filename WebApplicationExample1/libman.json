@@ -11,16 +11,6 @@
             "provider": "cdnjs",
             "library": "jquery@3.5.0",
             "destination": "wwwroot/lib/jquery/"
-        },
-        {
-            "provider": "cdnjs",
-            "library": "jquery-validate@1.17.0",
-            "destination": "wwwroot/lib/jquery-validate/"
-        },
-        {
-            "provider": "cdnjs",
-            "library": "jquery-validation-unobtrusive@4.0.0",
-            "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
         }
     ]
 }
